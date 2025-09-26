@@ -11,8 +11,7 @@ My example of what a good repository would look like.
 -[Data Used](data_used) 
 
 ## Project Title 
-*Class on Friday*
-
+First ever repositry and learning all the behind the scenes of it. Many tools were used along the way.
 # Description 
 The journey of business preperation
 
@@ -24,4 +23,4 @@ Tools used throughout:
 -Notepadd+
 
 # Data Used 
-Collection of reviews from past student 
+Collection of reviews and data used of repository examples from the GitHub social media community. 
